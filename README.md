@@ -7,4 +7,4 @@ I'm learning and things I post here are wrap up of what I've learned. Remember t
 
 Stuff I wrote is related to IT, but I may start posting some food recipes
 
-You can text me on [discord](discordapp.com/users/414446828235259905) ;3 
+You can text me on [discord](https://discordapp.com/users/414446828235259905) ;3 
