@@ -19,7 +19,7 @@ It is a string representation of all things that will be done during a handshake
 
 ### TLS 1.2 handshake
 
-![[../../images/TLS handshake diagram.png]]
+![[../images/TLS handshake diagram.png]]
 
 
 1. Client Hello - It starts a TLS handshake and contains:

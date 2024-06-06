@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "c26484247c7af2f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d648ee670305f0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6e7a76ae46aa302",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/installation-wizard.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d76334fac5999563",
+    "type": "split",
+    "children": [
+      {
+        "id": "484f3c4c5a4e706c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "412aad2737bd8334",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8cd2bbf7f9b96be1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2634dc0b9a4cd049",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "93d5dc945464f59b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3d0e24ef6d5d97a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa46969d9b35a332",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "images/installation-wizard.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d1e5c32dddc4a66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "images/installation-wizard.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c9e5b511a306201",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58b3423828cf9fa9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "images/installation-wizard.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "412aad2737bd8334",
+  "lastOpenFiles": [
+    "wrap-ups/TLS.md",
+    "wrap-ups/VPN.md",
+    "docs/nextcloud-installation.md"
+  ]
+}

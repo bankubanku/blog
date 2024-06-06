@@ -15,12 +15,12 @@ VPN can be used in various cases, like:
 # how it works
 Normally, data is sent through the internet in packets, these packets are made out of layers. We have a data layer wrapped into a transport layer, a transport layer wrapped into an Internet layer, and eventually an Internet layer wrapped into a link layer.
 
-![[../../images/packet.png]]
+![[../images/packet.png]]
 
 
 But when we are using VPN, we wrap these packets into additional transport and Internet layers with the IP of the network to which we are connecting or the device that connected to this network. After proper encryption and making sure that this packet is sent securely, we can use a VPN. 
 
-![[../../images/vpn_packet.png]]
+![[../images/vpn_packet.png]]
 # vpn protocols 
 VPN protocols determine how data routes between your computer and the VPN server. They vary, while some prioritize speed, others focus on privacy and security. Examples of most popular are below. 
 ## OpenVPN

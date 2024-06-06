@@ -139,11 +139,11 @@ After some research I concluded that this error happened, because a PHP module c
 
 Everything was alright after those fixes and I finished installation in graphical interface. I filled out the form with my username and password that I wanted to log in to my file server, changed the path to the database (it's recommended by the docs), and typed the rest of the information about the database I created earlier. I clicked install.
 
-![[../../images/installation-wizard.png]]
+![[../images/installation-wizard.png]]
 
 Another error occurred.  
 
-![[../../images/installation-wizard-error.png]]
+![[../images/installation-wizard-error.png]]
 
 I forgot to create  `/opt/nextcloud/data` and changed its owner to `www-data`.  Quickly did that and clicked "install" again.
 
@@ -154,7 +154,7 @@ sudo chown www-data:www-data /opt/nextcloud/data
 
 I preferred to not install recommended apps for now, so I skipped this stage. 
 
-![[../../images/installation-wizard-recommended-apps.png]]
+![[../images/installation-wizard-recommended-apps.png]]
 
 # access via the internet 
 At this point, Nextcloud is installed, but it could be accessed only via my local network. 
